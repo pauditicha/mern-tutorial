@@ -1,0 +1,7 @@
+{
+    "reactSnippets.settings.prettierEnabled": false,
+    "editor.defaultFormatter": "<another formatter>",
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  }
+}
